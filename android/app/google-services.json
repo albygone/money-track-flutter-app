@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "453871935398",
+    "project_id": "user-auth-money-track",
+    "storage_bucket": "user-auth-money-track.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453871935398:android:289254649b884eed13f967",
+        "android_client_info": {
+          "package_name": "com.example.money_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453871935398-3sicsdij338irfjuc0kjq1m3decnr1vq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.money_track",
+            "certificate_hash": "02b4f9df51c5356f63dcfd84d0605f6a39dee785"
+          }
+        },
+        {
+          "client_id": "453871935398-s3scsfqanbsr1hjsaun6qbvqor5spg37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZfB1H0D8oejlP5L5OgtuoVG_aK6ffLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453871935398-4d9gf4n9fgp6tt4fg523ke26bsfnrplf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "453871935398-6jslhgeg52lhoq0gq21pjpqlp50a13ie.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.moneyTrack.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
