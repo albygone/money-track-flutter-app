@@ -98,7 +98,7 @@ class _OverViewPageState extends State<OverViewPage> {
                 GoogleAuthController.logOut();
               },
               child: const Text('Logout'),
-            )
+            ),
           ],
         ),
       ),
